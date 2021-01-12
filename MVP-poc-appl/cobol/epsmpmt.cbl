@@ -14,6 +14,7 @@
       *    OUTPUT:
       *       MONTHLY PAYMENT
       *
+      * USER5 change
       *    (C) 2019 IBM
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
