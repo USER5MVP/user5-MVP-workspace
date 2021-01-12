@@ -15,6 +15,7 @@
       *       MONTHLY PAYMENT
       *
       * USER5 change
+      * USER5 change2
       *    (C) 2019 IBM
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
