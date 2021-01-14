@@ -12,7 +12,7 @@
       *       NUMBER OF MONTHS
       *       INTEREST RATE
       *    OUTPUT:
-      *       MONTHLY PAYMENT
+      *       MONTHLY PAYMENT  BY MADP
       *
       * USER5 change
       * USER5 change2
