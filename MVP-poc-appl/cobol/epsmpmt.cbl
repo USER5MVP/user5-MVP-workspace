@@ -16,8 +16,8 @@
       *
       * USER5 change
       * USER5 change2
-      * change 3 4
-      *    (C) 2019 IBM
+      * change 3 4 5
+      * (C) 2019 IBM
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
        SOURCE-COMPUTER. FLEX-ES.
