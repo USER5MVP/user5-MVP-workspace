@@ -19,7 +19,7 @@ def dbbHlq = 'USER5'
 def dbbDaemonPort = '8080'
 def dbbGroovyzOpts= ''
 // ---------------------------- Git (GitHub)
-def gitCredId = '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'
+def gitCredId = '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'
 def gitCred = 'USER5GithubPAT'
 def srcGitBranch = 'master'
 def srcGitRepo = 'https://github.ibm.com/pceck/poc-workspaceIBM2.git'
