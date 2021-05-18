@@ -22,7 +22,6 @@ def dbbGroovyzOpts= ''
 def gitCredId = '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'
 def gitCred = 'pceckPAT'
 def srcGitBranch = 'master'
-//def srcGitRepo =   'git@github.ibm.com:pceck/poc-workspaceIBM2.git'
 def srcGitRepo = 'https://github.ibm.com/pceck/poc-workspaceIBM2.git'
 
 def zAppBuildGitRepo = 'https://github.com/IBM/dbb-zappbuild.git'
